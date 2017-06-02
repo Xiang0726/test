@@ -1,0 +1,8 @@
+
+
+
+
+
+QGraphicsScene * scene = new QGraphicsScene;
+
+QGraphicsView * view = new QGraphicsView;

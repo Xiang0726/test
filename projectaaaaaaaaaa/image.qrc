@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Minion.png</file>
+        <file>minionred.jpg</file>
+        <file>bullet.png</file>
+        <file>tower.png</file>
+        <file>bullet.jpg</file>
+    </qresource>
+</RCC>
